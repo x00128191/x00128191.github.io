@@ -19,12 +19,12 @@ nav {
 
 
 
-.info-heading {
+.quick-top {
         font-size: 18px;
         font-weight: 700;
     }
 	
-	.info {
+	.quick-bottom {
         font-weight: 300;
         font-size: 18px;
     }
@@ -35,7 +35,9 @@ nav {
 	object-fit: contain;
 		background-image: ./images/test1.jpg
 	}
-
+#AboutMeHead{
+	padding-top : 2rem;
+}
 	
 #AboutMeLeft{
 	text-align : center;
@@ -61,6 +63,7 @@ nav {
 }
 
 #workExp{
+	padding-top : 2rem;
 	width: 100%;
         background-color: #EBEBEB;
 }
@@ -95,6 +98,9 @@ nav {
 }
 #intLeft{
 	text-align : center
+}
+#Interestshead{
+	padding-top : 2rem;
 }
 #interests{
 	
