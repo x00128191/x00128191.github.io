@@ -1,0 +1,113 @@
+*{
+font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+        width: 100%;
+        background-color: #dedede;
+    }
+
+
+#aboutMe{
+	width: 100%;
+        background-color: #EBEBEB;
+}
+
+.text-color-alpha {
+        color: #000;
+    }
+
+
+
+.info-heading {
+        font-size: 18px;
+        font-weight: 700;
+    }
+	
+	.info {
+        font-weight: 300;
+        font-size: 18px;
+    }
+	
+	#home{
+		background-image: ./images/test1.jpg
+	}
+
+	
+#AboutMeLeft{
+	text-align : center;
+	margin-top : 2rem;
+	
+}
+
+#AboutMeMid{
+	margin-bottom : 2rem;
+}
+
+#AboutMeRight{
+	margin-top : 2rem;
+}
+#eduLeft{
+	text-align : center
+}
+
+#eduRight{
+	text-align : center
+}
+
+#workExp{
+	width: 100%;
+        background-color: #EBEBEB;
+}
+
+#WorkExpLeft{
+	text-align : center
+}
+
+#WorkExpMid{
+	text-align : center
+}
+
+#WorkExpRight{
+	text-align : center
+}
+
+#projleft{
+	text-align : center
+}
+#projright{
+	text-align : center
+}
+
+
+#intRight{
+	text-align : center
+}
+#intMid{
+	text-align : center
+}
+#intLeft{
+	text-align : center
+}
+#interests{
+	
+	width: 100%;
+        background-color: #EBEBEB;
+}
+
+
+img{
+    height :100%;
+	width:100%;
+	object-fit: contain;
+}
+
+p{
+	justify-content: start;
+}
+
+#contactButton{
+	float: right;
+	margin-bottom:1rem;
+	
+}
